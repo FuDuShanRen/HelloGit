@@ -1,2 +1,3 @@
 How to use Git?
 I'm a new Learner! 
+Now,I change the txt!
